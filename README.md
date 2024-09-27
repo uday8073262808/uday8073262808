@@ -1,4 +1,4 @@
-- 👋 Hi to the fellow tech enthusiasts out there! I’m @RachanaVenkat
+- 👋 Hi to the fellow tech enthusiasts out there! I’m @uday8073262808
 - 👀 I am an aspiring Cloud and DevOps Engineer
 - 🌱 I’m currently learning to build CI/CD pipelines using Jenkins, github-actions, AWS CodePipeline, and many more.🛠️🔄
 - 💞️ I’m exploring other tools like Ansible for configuration management and Terraform for Infrastructure as Code(IaC).🧩
